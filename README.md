@@ -17,7 +17,7 @@
 <li>Amazon uses browsing history of a user to always keep those products in the eye of the customer. It uses the ratings and reviews of customers to display the products with a greater average in the recommended and best selling option. Amazon wants to make you buy a package rather than one product. Say you bought a phone, it will then recommend you to buy a case or a screen protector. It will further use the recommendations from the engine to email and keep you engaged with the current trend of the product/ category.
   
   <p><b>Different types of recommendations algorithms used:</b>
-  <li>Collaborative filtering
+  <li>Collaborative filtering</li>
  <li>Content-Based Filtering.
    
   
